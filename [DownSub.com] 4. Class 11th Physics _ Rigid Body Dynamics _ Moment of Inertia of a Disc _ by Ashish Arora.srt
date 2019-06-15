@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:04,711
+let us calculate the moment of inertia of
+a disc. about an axis of rotation, which is
+
+2
+00:00:04,711 --> 00:00:11,111
+passing through the centre of disc. and it
+is perpendicular to the plane of disc. as,
+
+3
+00:00:11,111 --> 00:00:16,190
+disk is a rigid body we can not directly calculate
+its moment of inertia we first need to consider
+
+4
+00:00:16,190 --> 00:00:23,710
+an, element. and, by integration of moment
+of inertia of elements of ring , over the
+
+5
+00:00:23,710 --> 00:00:30,941
+given range, will find the moment of inertia
+of disc. here, for a disc we can consider
+
+6
+00:00:30,941 --> 00:00:40,561
+a small elemental rings, which are of radius
+x, and width d x. like this. so if we consider
+
+7
+00:00:40,561 --> 00:00:47,381
+such elemental rings, which are of radius
+x and having width d x, several such rings
+
+8
+00:00:47,381 --> 00:00:54,991
+when integrated from centre to. this circumference
+of disc. we can say will be get the whole
+
+9
+00:00:54,991 --> 00:01:04,041
+disc. for this element, if says mass is d
+m. we can write the mass of, element as. mass
+
+10
+00:01:04,041 --> 00:01:14,321
+of. elemental ring. is . this can be written
+as mass per unit area multiplied by the area
+
+11
+00:01:14,321 --> 00:01:21,241
+occupied by this ring. so the total mass of
+disc is m and its radius is r. here we can
+
+12
+00:01:21,241 --> 00:01:31,010
+say its mass per unit area is m by pie r square.
+multiplied with the area occupied by the disc
+
+13
+00:01:31,010 --> 00:01:37,201
+. which can be given as, its length, into
+the. width, that can be written as two pie
+
+14
+00:01:37,201 --> 00:01:45,471
+x, d x. as we can see we cut the ring and
+flatten it. its , length will be two pie x
+
+15
+00:01:45,471 --> 00:01:51,741
+and width can be taken as d x. so in this
+situation the mass of this element will write
+
+16
+00:01:51,741 --> 00:02:00,101
+as m by r square into two x d x. now if it
+is a ring, as we can see this is a ring , the
+
+17
+00:02:00,101 --> 00:02:10,941
+moment of inertia . of the elemental ring.
+can be given as. d i, which can be written
+
+18
+00:02:10,941 --> 00:02:17,721
+as d m x square. so in this situation as we
+have, just now studied moment of inertia for
+
+19
+00:02:17,721 --> 00:02:23,291
+ring we can write as m r square , so for a
+ring having mass d m and radius x moment of
+
+20
+00:02:23,291 --> 00:02:29,251
+inertia can be written as, d m x square. this
+we can write as , just we substitute the value
+
+21
+00:02:29,251 --> 00:02:38,871
+of d m over here. will be two m by r square,
+multiplied by x cube d x. now total moment
+
+22
+00:02:38,871 --> 00:02:47,311
+of inertia . of whole disc. can be given by
+integration of all such elements , which is
+
+23
+00:02:47,311 --> 00:02:54,811
+integration of d i m we can write it integration
+of two m by r square into x cube d x. and
+
+24
+00:02:54,811 --> 00:03:01,630
+we substitute the limits of integration from
+zero to , r. now here, mass and radius of
+
+25
+00:03:01,630 --> 00:03:07,991
+the disc can be taken as constant , here only
+variable is x. so integration of x cube can
+
+26
+00:03:07,991 --> 00:03:15,941
+be, taken as directly x four by four, and
+we put the limits from zero to r. here we
+
+27
+00:03:15,941 --> 00:03:25,061
+can see will get it, two m by r square into,
+r four by four minus zero. so here this two
+
+28
+00:03:25,061 --> 00:03:30,850
+gets cancelled out and r square gets cancelled
+out , will get the moment of inertia of disc
+
+29
+00:03:30,850 --> 00:03:39,191
+to be. half m r square. this is the standard
+result for moment of inertia for disc, about
+
+30
+00:03:39,191 --> 00:03:43,731
+an axis of rotation which is passing through
+its centre and perpendicular to the, plane
+
+31
+00:03:43,731 --> 00:00:00,000
+of disc
+
