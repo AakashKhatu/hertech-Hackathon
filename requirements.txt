@@ -2,5 +2,5 @@ certifi==2019.3.9
 dlib==19.8.1
 imutils==0.5.2
 numpy==1.16.4
-opencv-python==4.1.0.25
+opencv-python==4.1.1.26
 wincertstore==0.2
